@@ -1,0 +1,19 @@
+body{
+    background-color:dimgray;
+}
+#esporte h2{
+    color: whitesmoke;
+}
+#economy h2{
+    color: antiquewhite;
+}
+#entretenimento h2{
+    color: khaki;
+}
+#tecnologia h2{
+    color: springgreen;
+}
+header h1{
+    font-family: 'Courier New', Courier, monospace;
+    border-color: blue;
+}
